@@ -2,6 +2,11 @@ package Array_Package;
 
 import java.util.Scanner;
 
+/**
+ * Ujian 4 (12 Oktober 2021)
+ * @author Tegar Muhammad Soekarno
+ *
+ */
 public class BelajarArray {
 
 	public static void main(String[] args) {
